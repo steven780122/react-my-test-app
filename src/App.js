@@ -4,7 +4,7 @@ import HelloWorld from './HelloWorld'
 class App extends Component {
   render() {
     return (
-      <HelloWorld text="今天就開始學React!!" />
+      <HelloWorld text="今天就開始學React!!!" />
     )
   }
 }
